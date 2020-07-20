@@ -1,0 +1,5 @@
+CREATE TABLE valLib
+(
+    idVal CHAR(10) PRIMARY KEY NOT NULL,
+    EngName CHAR(100) NOT NULL,
+);
